@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "telegraf": "^3.32.0"
+    "node": "16.13.0"
   }
 }
