@@ -1,1 +1,1 @@
-worker: install
+worker: python2 install.py
