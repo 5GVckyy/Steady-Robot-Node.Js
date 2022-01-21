@@ -1,1 +1,1 @@
-worker: python2 install.py
+worker: telegraf
