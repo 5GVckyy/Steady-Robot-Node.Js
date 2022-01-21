@@ -1,1 +1,1 @@
-worker: install
+worker: start
