@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/add31c6018ba67309bd3b.jpg">
 </p>
 
-<h4><p align="center"> Steady Robot Node.js </p></h4>
+<h4><p align="center"> Steady Robot js </p></h4>
 
 <h3>Requirements 📝</h3>
 
